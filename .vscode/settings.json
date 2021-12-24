@@ -1,0 +1,6 @@
+{
+	"java.configuration.updateBuildConfiguration": "interactive",
+	"files.autoGuessEncoding": true,
+	"maven.terminal.useJavaHome": true,
+	"java.debug.settings.vmArgs": "-Dfile.encoding=UTF-8"
+}
